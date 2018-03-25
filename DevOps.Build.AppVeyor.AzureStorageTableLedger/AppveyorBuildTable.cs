@@ -11,13 +11,20 @@ namespace DevOps.Build.AppVeyor.AzureStorageTableLedger
 
         public AppveyorBuildTable(string name, string version, string dependencies = null, string fileHashes = null)
         {
-            Dependencies = dependencies; FileHashes = fileHashes; PartitionKey = name; RowKey = version;
+Dependencies = dependencies;
+FileHashes = fileHashes;
+PartitionKey = name;
+RowKey = version;;
         }
 
         /// <summary>Comma-delimited string of repository dependencies in {name}|{version} format</summary>
-        public string Dependencies { get; set; }
+public string Dependencies { get;
+set;
+};
 
         /// <summary>Comma-delimited string of repository file hashes</summary>
-        public string FileHashes { get; set; }
+public string FileHashes { get;
+set;
+};
     }
 }
