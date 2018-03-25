@@ -15,7 +15,7 @@
     <PackageLicenseUrl>https://github.com/cdorst/DevOps.Build.AppVeyor.AzureStorageTableLedger/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/cdorst/DevOps.Build.AppVeyor.AzureStorageTableLedger</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdorst/DevOps.Build.AppVeyor.AzureStorageTableLedger</RepositoryUrl>
-    <Version>4.0.2</Version>
+    <Version>4.0.3</Version>
   </PropertyGroup>
 
   <ItemGroup>
