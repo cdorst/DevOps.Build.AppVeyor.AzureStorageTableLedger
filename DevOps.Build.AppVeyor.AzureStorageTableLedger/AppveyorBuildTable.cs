@@ -21,13 +21,9 @@ namespace DevOps.Build.AppVeyor.AzureStorageTableLedger
         }
 
         /// <summary>Comma-delimited string of repository dependencies in {name}|{version} format</summary>
-        public string Dependencies { get;
-        set;
-        };
+        public string Dependencies { get; set; }
 
         /// <summary>Comma-delimited string of repository file hashes</summary>
-        public string FileHashes { get;
-        set;
-        };
+        public string FileHashes { get; set; }
     }
 }
