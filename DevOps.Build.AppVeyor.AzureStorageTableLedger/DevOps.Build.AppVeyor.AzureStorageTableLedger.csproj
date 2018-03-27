@@ -15,11 +15,11 @@
     <PackageLicenseUrl>https://github.com/cdorst/DevOps.Build.AppVeyor.AzureStorageTableLedger/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/cdorst/DevOps.Build.AppVeyor.AzureStorageTableLedger</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdorst/DevOps.Build.AppVeyor.AzureStorageTableLedger</RepositoryUrl>
-    <Version>4.0.8</Version>
+    <Version>4.0.9</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CDorst.Azure.Storage.Metapackage" Version="1.0.1" />
+    <PackageReference Include="CDorst.Azure.Storage.Metapackage" Version="1.0.2" />
   </ItemGroup>
 
 </Project>
