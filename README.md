@@ -39,7 +39,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-4.0.7
+4.0.8
 
 ## Metaproject
 
