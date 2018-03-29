@@ -17,7 +17,7 @@ namespace DevOps.Build.AppVeyor.AzureStorageTableLedger
             Dependencies = dependencies;
             FileHashes = fileHashes;
             PartitionKey = name;
-            RowKey = version;;
+            RowKey = version;
         }
 
         /// <summary>Comma-delimited string of repository dependencies in {name}|{version} format</summary>
