@@ -27,10 +27,10 @@ The projects below use this repository as a direct dependency.
 
 Name | Status
 ---- | ------
-[DevOps.Build.AppVeyor.AzureStorageTableLedger.Builder](https://github.com/CDorst./DevOps.Build.AppVeyor.AzureStorageTableLedger.Builder) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst./devops-build-appveyor-azurestoragetableledger-buil.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst./devops-build-appveyor-azurestoragetableledger-buil) [![NuGet package status](https://img.shields.io/nuget/v/CDorst..DevOps.Build.AppVeyor.AzureStorageTableLedger.Builder.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst..DevOps.Build.AppVeyor.AzureStorageTableLedger.Builder)
-[DevOps.Build.AppVeyor.GetAzureTable](https://github.com/CDorst./DevOps.Build.AppVeyor.GetAzureTable) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst./devops-build-appveyor-getazuretable.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst./devops-build-appveyor-getazuretable) [![NuGet package status](https://img.shields.io/nuget/v/CDorst..DevOps.Build.AppVeyor.GetAzureTable.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst..DevOps.Build.AppVeyor.GetAzureTable)
-[DevOps.Build.AppVeyor.GetBuildRecord](https://github.com/CDorst./DevOps.Build.AppVeyor.GetBuildRecord) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst./devops-build-appveyor-getbuildrecord.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst./devops-build-appveyor-getbuildrecord) [![NuGet package status](https://img.shields.io/nuget/v/CDorst..DevOps.Build.AppVeyor.GetBuildRecord.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst..DevOps.Build.AppVeyor.GetBuildRecord)
-[DevOps.Code.Entities.GetAzureTable](https://github.com/CDorst./DevOps.Code.Entities.GetAzureTable) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst./devops-code-entities-getazuretable.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst./devops-code-entities-getazuretable) [![NuGet package status](https://img.shields.io/nuget/v/CDorst..DevOps.Code.Entities.GetAzureTable.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst..DevOps.Code.Entities.GetAzureTable)
+[DevOps.Build.AppVeyor.AzureStorageTableLedger.Builder](https://github.com/CDorst/DevOps.Build.AppVeyor.AzureStorageTableLedger.Builder) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/devops-build-appveyor-azurestoragetableledger-buil.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/devops-build-appveyor-azurestoragetableledger-buil) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.DevOps.Build.AppVeyor.AzureStorageTableLedger.Builder.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.DevOps.Build.AppVeyor.AzureStorageTableLedger.Builder)
+[DevOps.Build.AppVeyor.GetAzureTable](https://github.com/CDorst/DevOps.Build.AppVeyor.GetAzureTable) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/devops-build-appveyor-getazuretable.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/devops-build-appveyor-getazuretable) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.DevOps.Build.AppVeyor.GetAzureTable.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.DevOps.Build.AppVeyor.GetAzureTable)
+[DevOps.Build.AppVeyor.GetBuildRecord](https://github.com/CDorst/DevOps.Build.AppVeyor.GetBuildRecord) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/devops-build-appveyor-getbuildrecord.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/devops-build-appveyor-getbuildrecord) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.DevOps.Build.AppVeyor.GetBuildRecord.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.DevOps.Build.AppVeyor.GetBuildRecord)
+[DevOps.Code.Entities.GetAzureTable](https://github.com/CDorst/DevOps.Code.Entities.GetAzureTable) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/devops-code-entities-getazuretable.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/devops-code-entities-getazuretable) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.DevOps.Code.Entities.GetAzureTable.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.DevOps.Code.Entities.GetAzureTable)
 
 ## NuGet
 
@@ -39,7 +39,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-4.0.9
+4.0.10
 
 ## Metaproject
 
